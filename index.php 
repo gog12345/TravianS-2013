@@ -1,0 +1,23 @@
+<?php
+##########################################################################  
+## -= YOU MAY NOT REMOVE OR CHANGE THIS NOTICE =-##  
+##  ---------------------------------------------------------------------------   ## 
+##        Filename      index.php                ##
+##        Developed by:  gog12345       ##
+##        License:       TravianS  Project         ##
+##        Copyright:     TravianS  2013. All rights reserved.    ## 
+#########################################################################
+if(!file_exists('GameEngine/config.php')) {
+header("Location: install/");
+}
+
+include ("GameEngine/config.php");
+/*
+
+if($_SERVER['HTTP_HOST'] != '.SERVE.')
+{
+    header('location: '.SERVER.'');
+            exit;
+}
+*/
+// delete the /* and the */ if you not use localhost.
