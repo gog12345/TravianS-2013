@@ -2,7 +2,7 @@
 ##########################################################################  
 ## -= YOU MAY NOT REMOVE OR CHANGE THIS NOTICE =-##  
 ##  ---------------------------------------------------------------------------   ## 
-##        Filename      all                ##
+##        Filename      winner.php               ##
 ##        Developed by:  gog12345       ##
 ##        License:       TravianS  Project         ##
 ##        Copyright:     TravianS  2013. All rights reserved.    ## 
